@@ -44,7 +44,7 @@
 
 ## Lektionsrepon
 * [Måndag]() - Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen
-* [Tisdag]()- Semantisk HTML och landmarks codealong-kodexexempel
-* [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
-* [Torsdag]() - Box-modellen, positionering, logical properties
-* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2025/code-review-instruktioner/blob/main/README.md) på recept-övningen (2 stars and a wish) ni fick under ToK.
+* [Tisdag]()- Installera och genomgång av relevanta verktyg, ex. VS code, Chrome, Git grunder ( clone, push, pull ), delkurs-organisation
+* [Onsdag]() - HTML grunder
+* [Torsdag]() - Grundläggande CSS syntax, element-selektorer, boxmodellen
+* [Fredag]() - klasser, id:n och mer avancerade selektorer ( ex. nesting ), flexbox
