@@ -47,4 +47,4 @@
 * [Tisdag]()- Semantisk HTML och landmarks codealong-kodexexempel
 * [Onsdag]() - Tillgänglighet (WCAG, WAVE etc)
 * [Torsdag]() - Box-modellen, positionering, logical properties
-* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2024-2025/code-review-instruktioner) på recept-övningen (2 stars and a wish) ni fick under ToK.
+* [Fredag]() - [Code review](https://github.com/Lexicon-frontend-2025/code-review-instruktioner/blob/main/README.md) på recept-övningen (2 stars and a wish) ni fick under ToK.
