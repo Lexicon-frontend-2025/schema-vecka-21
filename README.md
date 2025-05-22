@@ -43,8 +43,8 @@
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
 ## Lektionsrepon
-* [Måndag]() - [Hur en dag ser ut, relevanta verktyg, förhållningssätt, presentationer av klassen](https://docs.google.com/spreadsheets/d/12N-W4AolqRjr4yo7gY6sK-68OF2KSseUiD58_tkbTSk/edit?gid=942060617#gid=942060617)
-* [Tisdag]()- Installera och genomgång av relevanta verktyg, ex. VS code, Chrome, Git grunder ( clone, push, pull ), delkurs-organisation
-* [Onsdag]() - HTML grunder
-* [Torsdag]() - Grundläggande CSS syntax, element-selektorer, boxmodellen
-* [Fredag]() - klasser, id:n och mer avancerade selektorer ( ex. nesting ), flexbox
+* [Måndag]() - Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på. Presentationer?[LÄNK](https://docs.google.com/spreadsheets/d/12N-W4AolqRjr4yo7gY6sK-68OF2KSseUiD58_tkbTSk/edit?gid=942060617#gid=942060617)
+* [Tisdag]()- WCAG Intro - Semantic HTML och landmarks
+* [Onsdag]() - WCAG forts - alt tags, kontraster mm, test med WAVE och andra verktyg
+* [Torsdag]() - Ledigt
+* [Fredag]() - Code review på semantiskt korrekt recept-övning
