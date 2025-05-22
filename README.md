@@ -42,6 +42,10 @@
 * [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
 
+## Övrigt
+* [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
+* [WCAG-guide](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
+
 ## Lektionsrepon
 * [Måndag]() - Presentationer. Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på.
 * [Tisdag]()- WCAG Intro - Semantic HTML och landmarks
