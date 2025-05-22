@@ -38,6 +38,7 @@
 
 ## Slides
 * [Intro till kursen](https://docs.google.com/presentation/d/1tsH95pL3ailFghCljPgBz0IiEmjFP4BSwFan8s9vjvA/edit?usp=sharing)
+* [WCAG intro](https://docs.google.com/presentation/d/1vkvjU1Dh9a8AfTJC5YSOhZVCZM5bviWRciYV3ZQtLyg/edit?usp=sharing)
 * [Intro, HTML](https://docs.google.com/presentation/d/1c8aKRb-ZdfwApzSCnjhKsL3kFGmIdqBJgBV_1OaJrtI/edit#slide=id.g5fd0d48a39_2_73)
 * [Layout mindset](https://docs.google.com/presentation/d/1PFbZRFADmdoNMNKOK9pLxfmdl87-CSVipjwhV1IKcPc/edit#slide=id.g33d96f2301_0_16)
 * [HTML, semantik](https://docs.google.com/presentation/d/16vpZzGOtxvnCnzxhiaQdw9CLjBGFW8laZAAIyTSuUG4/edit?usp=sharing)
