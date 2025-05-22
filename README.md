@@ -44,7 +44,7 @@
 
 ## Övrigt
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
-* [WCAG-guide](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
+* [WCAG-guide](https://github.com/Lexicon-frontend-2025/wcag-cheatsheet)
 
 ## Lektionsrepon
 * [Måndag]() - Presentationer. Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på.
