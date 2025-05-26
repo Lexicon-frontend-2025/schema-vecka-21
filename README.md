@@ -31,9 +31,8 @@
 
 ## Övningar
 * [HTML5 elements challenges](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/4587d9b6-badd-43dd-87a2-2b04df9258f6/9cf34da2-a2b0-4c61-8136-5edc75928667)
-* [Semantisk html](https://github.com/Lexicon-frontend-2024-2025/hobby-html--vning/blob/main/README.md)
-* [Manuell tillgänglighetstestning](https://github.com/Lexicon-frontend-2024-2025/uppgift-tillg-nglighetsgranskning/blob/main/README.md)
-
+* [Semantisk html](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift--hobbysida/tree/main)
+* [Manuell tillgänglighetstestning](https://github.com/Lexicon-frontend-2025/uppgift-tillganglighetsgranskning/tree/main)
 ## Slides
 * [Intro till kursen](https://docs.google.com/presentation/d/1tsH95pL3ailFghCljPgBz0IiEmjFP4BSwFan8s9vjvA/edit?usp=sharing)
 * [WCAG intro](https://docs.google.com/presentation/d/1vkvjU1Dh9a8AfTJC5YSOhZVCZM5bviWRciYV3ZQtLyg/edit?usp=sharing)
