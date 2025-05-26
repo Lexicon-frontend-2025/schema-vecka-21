@@ -46,7 +46,7 @@
 
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2025/lektion-26-maj) - Presentationer. Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på.
-* [Tisdag]()- WCAG Intro - Semantic HTML och landmarks
-* [Onsdag]() - WCAG forts - alt tags, kontraster mm, test med WAVE och andra verktyg
-* [Torsdag]() - Ledigt
-* [Fredag]() - Code review på semantiskt korrekt recept-övning
+* [Tisdag]- WCAG Intro - Semantic HTML och landmarks
+* [Onsdag] - WCAG forts - alt tags, kontraster mm, test med WAVE och andra verktyg
+* [Torsdag] - Ledigt
+* [Fredag] - Code review på semantiskt korrekt recept-övning
