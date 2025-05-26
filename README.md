@@ -11,7 +11,7 @@
 #### E-Learning:
 
 #### Utvalda för denna veckan (dessa bör ni titta på)
-* [HTML5 (del 1 och 2)] (https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [HTML5 del 1 och 2](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
 * [WCAG Testing tools](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)
 
 * [Accessible navigation (del 6)](https://app.pluralsight.com/ilx/video-courses/1973ad45-0e12-4833-8a2a-b698256b7ffd/aece0a71-44be-4e73-900d-0018bb044ade/b4b6156b-3563-4504-be53-1e3f88fe429a)
