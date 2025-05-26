@@ -31,7 +31,6 @@
 
 ## Övningar
 * [HTML5 elements challenges](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/4587d9b6-badd-43dd-87a2-2b04df9258f6/9cf34da2-a2b0-4c61-8136-5edc75928667)
-* [Semantisk html](https://github.com/Lexicon-frontend-2025/HTML-CSS_uppgift--hobbysida/tree/main)
 * [Manuell tillgänglighetstestning](https://github.com/Lexicon-frontend-2025/uppgift-tillganglighetsgranskning/tree/main)
 ## Slides
 * [Intro till kursen](https://docs.google.com/presentation/d/1tsH95pL3ailFghCljPgBz0IiEmjFP4BSwFan8s9vjvA/edit?usp=sharing)
@@ -45,7 +44,7 @@
 
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2025/lektion-26-maj) - Presentationer. Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på.
-* [Tisdag]- WCAG Intro - Semantic HTML och landmarks
-* [Onsdag] - WCAG forts - alt tags, kontraster mm, test med WAVE och andra verktyg
+* [Tisdag]- WCAG Intro - Semantic HTML och landmarks. EM - E-learning och jobb med Recept-övningen
+* [Onsdag] - WCAG forts - alt tags, kontraster mm, test med WAVE och andra verktyg. EM - E-learning och jobb med Recept-övningen
 * [Torsdag] - Ledigt
-* [Fredag] - Code review på semantiskt korrekt recept-övning
+* [Fredag] - Code review på semantiskt korrekt recept-övning. EM - E-learning
