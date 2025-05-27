@@ -42,6 +42,9 @@
 * [HTML-element](https://github.com/Lexicon-frontend-2025/html-cheatsheet)
 * [WCAG-guide](https://github.com/Lexicon-frontend-2025/wcag-cheatsheet)
 
+## Semantiska sidor
+* [HTML5 doctor](https://html5doctor.com/)
+
 ## Lektionsrepon
 * [Måndag](https://github.com/Lexicon-frontend-2025/lektion-26-maj) - Presentationer. Hur en dag ser ut, delkurs-organisation, Genomgång av relevanta verktyg och extensions i VS code. Förhållningssätt - kamera på.
 * [Tisdag]- WCAG Intro - Semantic HTML och landmarks. EM - E-learning och jobb med Recept-övningen
