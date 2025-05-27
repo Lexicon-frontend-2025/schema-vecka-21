@@ -28,6 +28,7 @@
 #### Verktyg
 * [WAVE Extension](https://wave.webaim.org/extension/)
 * [Live Preview Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+* [HTML validator](https://validator.w3.org/)
 
 ## Övningar
 * [HTML5 elements challenges](https://app.pluralsight.com/ilx/video-courses/fac15700-fb03-4c72-b291-efdb54933a8e/4587d9b6-badd-43dd-87a2-2b04df9258f6/9cf34da2-a2b0-4c61-8136-5edc75928667)
