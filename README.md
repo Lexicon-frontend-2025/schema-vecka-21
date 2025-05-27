@@ -5,7 +5,7 @@
 
 ## Mål för veckan
 1. Förståelse för varför semantik är viktig inom HTML
-2. Förstå tillgänglig design (WSAG) och kunna några verktyg för detta
+2. Förstå tillgänglig design (WCAG) och kunna några verktyg för detta
 
 ## Material
 #### E-Learning:
